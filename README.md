@@ -1,2 +1,2 @@
 # EDGE_Project_Mahmudul_Bhuiyan
-Creating a project about periodic table lookup for EDGE 
+Here I create a project about periodic table lookup for EDGE 
